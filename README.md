@@ -16,3 +16,5 @@ Now. let's begin!
  * #### Categorising tweets as positive, negative & neutral. This in turn, alerts the models for further actions they need to take. Such measures prevent foul players from misguiding the masses & in time of elections prevent from acting as an indirect mode of rigging!
 
  * #### pin-pointing other factors like tiem time when tweets/re-tweets upsurge, what are the most used words & hashtags etc.
+
+Link to original Kaggle dataset: https://www.kaggle.com/datasets/adritpal08/dataset-of-indian-politics-tweets-and-reactions

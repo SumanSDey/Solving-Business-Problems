@@ -1,0 +1,5 @@
+Link to the Kaggle dataset: https://www.kaggle.com/datasets/adritpal08/dataset-of-indian-politics-tweets-and-reactions
+I have used chatGPT 3.5 in earlier phase of code generation & Google Gemini for the rest of the project.
+As a whole, I used Prompt Engineering to generate code snippets. Used multi-shot prompting, role playing, example-based approach etc to achieve desired results. 
+
+ 

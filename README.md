@@ -1,10 +1,10 @@
-# Solving_business_problems
-This repository contains projects (I like to term them as Business problems as that is actually what they are!) that I have worked/working on. 
-My main focus is on finding solutions using the power of Generative AI tools, be it using LLMs like chatGPT, Google Gemini etc for neat & 
-error-free code generation to using Mostly.ai, chatCSV and other tools to achieve not just efficiency & accuracy but also to boost productivity
-in every step of the data sciene methodology be it synthetic data generation, drawing statistical insights, multiple visualization plots with just
-one click or be it selecting the best ML model that delivers the best predictions using Generative AI.
+# *Customer Segmentation for robust marketing strategy*
+Kaggle dataset used: https://www.kaggle.com/datasets/abisheksudarshan/customer-segmentation
 
-All this is just an endeavour to develop in future a DS-ML DevOps cycle so that I be able to build mechanisms that act seamlessly to deliver real-time
-solutions for almost every problem at hand!
+Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, interests and spending habits.
 
+An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market.
+
+Important: Synthetic data generated using Generative AI has been used for this project. I have used Mostly.ai website for the purpose. It is a frint runner for this task in the world now.
+Reason- We all know, a robust model is the one that has been trained & tested on "useful & relevant" data. Often, due to many constraints, it is not possible to obtain data relevant & essential to answer the questions that need to be answered to achieve the desired result. Generative AI has popped up as the most ideal solution.
+The dataset contains original & synthetic data in the ratio 1:4. 

@@ -1,0 +1,51 @@
+The following insights were drawn from the dataset available.
+
+Note: In order to achieve accuracy & to save huge lot of time & resources, I have used chatCSV as my Generative AI tool for the following insights:
+
+Points: 
+
+     The most common gender in the dataset is Male, with 8937 occurrences.
+     The majority of individuals in the dataset are married, with 9698 occurrences.
+     The most common profession in the dataset is 'Artist', with 5149 occurrences (fall under Low spending score category).
+     The most common spending score in the dataset is 'Low', with 9633 occurrences.
+
+Q.   Relation between spending score & profession?
+Ans: Artists, Doctors, Engineers, Entertainment professionals, and Healthcare professionals have a higher number of individuals with a 'Low' spending score.
+     Executives and Lawyers have a higher number of individuals with a 'High' spending score.
+     Homemakers and Marketing professionals have a relatively balanced distribution across 'Low', 'Average', and 'High' spending scores.
+
+Q. Any relationship of work experience of Lawyers & Executives with spending score?
+
+Ans: For Lawyers:
+     Those with 0 to 1 years of work experience have a higher number of individuals with a 'High' spending score.
+     Those with 2 to 9 years of work experience have a higher number of individuals with a 'Low' spending score.
+     Those with 10 or more years of work experience have a relatively balanced distribution across 'Low', 'Average', and 'High' spending scores
+
+ For Executives:
+
+     Those with 0 to 1 years of work experience have a higher number of individuals with a 'High' spending score.
+     Those with 2 to 9 years of work experience have a higher number of individuals with a 'Low' spending score.
+     Those with 10 or more years of work experience have a relatively balanced distribution across 'Low', 'Average', and 'High' spending scores.
+
+Q. Proportion of lawyers & executives with 0 to 1 year work experience compared to their respective total numbers?
+
+Ans: The proportion of Executives with 0 to 1 year of work experience compared to the total number of Executives is approximately 72%.
+     The proportion of Lawyers with 0 to 1 year of work experience compared to the total number of Lawyers is approximately 88%.
+
+    Conclusion: These professions have a higher concentration of individuals with a "High" spending score, particularly those with 0-1 year of work experience.
+    This could suggest higher starting salaries or signing bonuses for these roles.
+
+Q. Find the proportion of homemakers & marketing professionals having average & high spending scores out of their total numbers.
+
+Ans: The proportion of Homemakers with 'Average' or 'High' spending scores compared to the total number of Homemakers is approximately 52%.
+     The proportion of Marketing professionals with 'Average' or 'High' spending scores compared to the total number of Marketing professionals is approximately 48%.
+
+     Conclusion: Approximately half of the Homemakers and Marketing professionals in the dataset have 'Average' or 'High' spending scores. This could indicate that these 
+     individuals have a moderate to high level of disposable income, which they are willing to spend.
+
+
+
+
+
+
+

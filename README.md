@@ -7,3 +7,5 @@ The system uses text descriptions of movies and TV shows to provide recommendati
 This recommendation system demonstrates the effectiveness of TF-IDF in providing accurate and relevant recommendations for movies and TV shows. It also showcases the computational efficiency of cosine similarity in comparison to Jaccard similarity.
 
 Acknowledgement: Nikos
+
+Dataset used can be found here: https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021/data
